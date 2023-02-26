@@ -8,6 +8,11 @@
 - Korean student.
 
 ## 
+
+<div align="center">
+  <a href = "mailto:deise.alves92@gmail.com"><img src="https://user-images.githubusercontent.com/98955674/221390638-7c196903-ef0c-4d50-a441-c0d429dbede5.png"></a>
+  <a href="https://www.linkedin.com/in/deise-s-alves/" target="_blank"><img src="https://user-images.githubusercontent.com/98955674/221390671-94a60701-86ca-4091-b6a8-3744f945b7e7.png"></a> 
+</div>
  
 </div>
 <h3 align="center"> Language & Skills
