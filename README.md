@@ -23,7 +23,8 @@
   ✨ <img aling="center" alt="Ise-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   ✨ <img aling="center" alt="Ise-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   ✨ <img aling="center" alt="Ise-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </h3></div>
+  ✨ <img aling="center" alt="Ise-Type" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  ✨</h3></div>
 
 ##
 
