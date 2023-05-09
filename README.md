@@ -2,9 +2,8 @@
 <img align="right" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV7DFWAXLDAaMQrkf6o97uXDFqSuqxKQnS_BvdsgVOHCQSGCT-yEgw2qJXHGWHTnVKxJHELm_XQ1j1cUVJahUPhSfWbK4sgi92iOseEJeONHDfdgL-SFfM-npAZKVnoziuMUXFGEJdiisJSPZRMMO9p4oAPWy_mV6XkZqVEIcSPxenxan4UDk_9Gj-/s443/cover-mobile.gif" height="300" width="300">
 
 - Professional in career transition;
-- I am currently improving knowledge in Database and React;
+- I am currently improving knowledge in Database and JS;
 - Graduated in Systems Analysis and Development and I'm an IT technician;
-- Future Macatronic Engineer;
 - Korean student.
 
 ## 
