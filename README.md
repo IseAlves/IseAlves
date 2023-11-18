@@ -4,7 +4,8 @@
 - Professional in career transition;
 - I am currently improving knowledge in Database and JS;
 - Graduated in Systems Analysis and Development and I'm an IT technician;
-- Korean student.
+- Control and Automation Engineering student;
+- Korean language student.
 
 ## 
 
@@ -23,6 +24,7 @@
   ✨ <img aling="center" alt="Ise-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   ✨ <img aling="center" alt="Ise-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   ✨ <img aling="center" alt="Ise-Type" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  ✨ <img aling="center" alt="Ise-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   ✨</h3></div>
 
 ##
